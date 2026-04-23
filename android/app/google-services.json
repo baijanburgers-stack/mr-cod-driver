@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "756041850780",
+    "project_id": "mr-cod-online-ordering",
+    "storage_bucket": "mr-cod-online-ordering.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756041850780:android:driver0000000000001",
+        "android_client_info": {
+          "package_name": "be.mrcod.driver"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIllocGZwxw4nmDF7DcHZC_3RyEc9nr2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

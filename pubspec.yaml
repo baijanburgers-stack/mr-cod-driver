@@ -1,0 +1,32 @@
+name: mr_cod_driver
+description: "MR COD Driver Delivery App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^8.0.2
+  intl: ^0.20.2
+  firebase_core: ^4.6.0
+  cloud_firestore: ^6.2.0
+  shared_preferences: ^2.5.5
+  geolocator: ^13.0.2
+  permission_handler: ^11.3.1
+  wakelock_plus: ^1.5.1
+  audioplayers: ^6.6.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sounds/
