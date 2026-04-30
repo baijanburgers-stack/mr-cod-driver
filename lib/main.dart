@@ -60,7 +60,7 @@ class DriverApp extends StatelessWidget {
     return ValueListenableBuilder<AppLocale>(
       valueListenable: localeNotifier,
       builder: (_, __, ___) => MaterialApp(
-        title: 'EazyOrder Driver',
+        title: 'MR COD Driver',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.themeData,
         scrollBehavior: const MaterialScrollBehavior().copyWith(

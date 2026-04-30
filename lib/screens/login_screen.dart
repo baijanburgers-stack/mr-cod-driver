@@ -118,7 +118,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('EazyOrder',
+                      Text('MR COD',
                           style: GoogleFonts.montserrat(
                             color: AppTheme.textPrimary,
                             fontWeight: FontWeight.w900,
