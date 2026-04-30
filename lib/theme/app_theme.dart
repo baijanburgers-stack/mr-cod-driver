@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-/// MR COD Driver — Bright, Airy, Fast Design System
+/// EazyOrder Driver — Bright, Airy, Fast Design System
 /// ─────────────────────────────────────────────────
-/// Matches the MR COD Belgium web platform light theme.
+/// Matches the EazyOrder Belgium web platform light theme.
 class AppTheme {
   // ── Brand ────────────────────────────────────────────────────────────────
   static const Color brand = Color(0xFFDC2626); // red-600

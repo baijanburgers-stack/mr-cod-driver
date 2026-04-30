@@ -7,7 +7,7 @@ String t(String key) =>
 class AppStrings {
   static const Map<String, Map<String, String>> s = {
     // General
-    'appName':          {'en': 'MR COD Driver', 'fr': 'MR COD Livreur', 'nl': 'MR COD Bezorger'},
+    'appName':          {'en': 'EazyOrder Driver', 'fr': 'EazyOrder Livreur', 'nl': 'EazyOrder Bezorger'},
     'driverPortal':     {'en': 'Driver Portal', 'fr': 'Portail Livreur', 'nl': 'Bezorger Portaal'},
 
     // Login
